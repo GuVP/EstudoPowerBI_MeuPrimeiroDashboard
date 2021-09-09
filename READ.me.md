@@ -1,6 +1,6 @@
 # Meu Primeiro Dashboard
 
-
+## Sobre
 
 
 
@@ -8,11 +8,21 @@
 
 ## ETL
 
-Primeiramente, transformamos os dados da coluna **amount**, correspondente ao preço das compras realizadas, para número decimal com vírgula ao invés de ponto, para trabalharmos com o padrão adotado pela Língua Portuguesa.
+Primeiramente, transformamos os dados da coluna **amount**, correspondente ao preço das compras realizadas, para número decimal com vírgula ao invés de ponto, para trabalharmos com o padrão adotado pela Língua Portuguesa. Após isso, filtramos os valores vazios (0) dessa coluna, para utilizarmos dados destas "compras" em nosso dashboard.
 
-Após isso, utilizamos a coluna **date** para gerar duas novas colunas: uma coluna com o nome do dia da semana (segunda, terça, quarta, quinta, sexta, sábado e domingo) e uma coluna com a ordem dos dias da semana (1, 2, 3, 4, 5, 6, 7), começando pela segunda-feira.
+Após isso, utilizamos a coluna **date** para gerar duas novas colunas: uma coluna que identifica o nome do dia da semana (segunda, terça, quarta, quinta, sexta, sábado e domingo) e outra coluna que identifica a ordem dos dias da semana (1, 2, 3, 4, 5, 6, 7), sendo 1 correspondente a segunda-feira.
 
 
+
+## Construção do Dashboard
+
+Criamos diversos quadros de informações, como:
+
+- **Gastos** - Utilizado para exibir o valor total gasto no período;
+- **Ticket Médio** - Valor médio gasto em cada compra;
+- **Compras** - Quantidade de compras no período;
+- **Dias** - Quantidade de dias em que ocorreram compras;
+- 
 
 
 
