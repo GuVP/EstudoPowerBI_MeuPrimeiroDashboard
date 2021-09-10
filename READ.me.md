@@ -28,3 +28,7 @@ Criamos diversos quadros de informações, como:
 
 
 
+## Atribuição de Imagens
+
+<img src="C:\Users\valen\OneDrive\Documentos\Repositórios\MeuPrimeiroDashboard\icons\financial-profit.png" style="zoom:25%;" /> Icon made by [Smachicons](https://www.flaticon.com/authors/smashicons) from https://www.flaticon.com. 
+
