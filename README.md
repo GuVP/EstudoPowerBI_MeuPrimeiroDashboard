@@ -22,7 +22,6 @@ Criamos diversos quadros de informações, como:
 - **Ticket Médio** - Valor médio gasto em cada compra;
 - **Compras** - Quantidade de compras no período;
 - **Dias** - Quantidade de dias em que ocorreram compras;
-- 
 
 
 
